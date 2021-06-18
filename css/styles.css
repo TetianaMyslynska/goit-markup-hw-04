@@ -373,7 +373,7 @@ img {
   fill: #afb1b8;
 }
 .clients-list li:hover,
-.icon-client:hover {
+.clients-list li:hover use {
   fill: var(--accent-color-blue);
   border-color: var(--accent-color-blue);
 }
